@@ -9,3 +9,4 @@ load_dotenv
 numpy
 openpyxl
 SQLAlchemy
+boto3
