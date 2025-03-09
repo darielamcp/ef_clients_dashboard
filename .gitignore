@@ -1,0 +1,16 @@
+node_modules
+*.env
+*.parquet
+*db
+*bin
+*lib
+*pyenv
+*src
+*.xlsx
+**/__pycache__
+*.html
+*.rar
+*.sh
+/venv
+*.ini
+*.log

@@ -1,0 +1,11 @@
+pyshp
+pandas
+streamlit
+plotly
+streamlit_option_menu
+streamlit_folium
+requests
+load_dotenv
+numpy
+openpyxl
+SQLAlchemy
